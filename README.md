@@ -1,6 +1,6 @@
-![nextjs-auth0](https://cdn.auth0.com/website/sdks/banners/nextjs-auth0-banner.png)
 
 🔗WebSite LINK: https://crysdyazandco.com/
+
 ![crysdyazandco com](https://github.com/user-attachments/assets/ea57a9a2-b2c9-4df8-b2b7-b319459ecb4c)
 
 
